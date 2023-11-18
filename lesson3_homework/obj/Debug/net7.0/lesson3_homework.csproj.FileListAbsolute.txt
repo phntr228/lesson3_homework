@@ -1,0 +1,14 @@
+C:\c#\lesson3_homework\bin\Debug\net7.0\lesson3_homework.exe
+C:\c#\lesson3_homework\bin\Debug\net7.0\lesson3_homework.deps.json
+C:\c#\lesson3_homework\bin\Debug\net7.0\lesson3_homework.runtimeconfig.json
+C:\c#\lesson3_homework\bin\Debug\net7.0\lesson3_homework.dll
+C:\c#\lesson3_homework\bin\Debug\net7.0\lesson3_homework.pdb
+C:\c#\lesson3_homework\obj\Debug\net7.0\lesson3_homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\lesson3_homework\obj\Debug\net7.0\lesson3_homework.AssemblyInfoInputs.cache
+C:\c#\lesson3_homework\obj\Debug\net7.0\lesson3_homework.AssemblyInfo.cs
+C:\c#\lesson3_homework\obj\Debug\net7.0\lesson3_homework.csproj.CoreCompileInputs.cache
+C:\c#\lesson3_homework\obj\Debug\net7.0\lesson3_homework.dll
+C:\c#\lesson3_homework\obj\Debug\net7.0\refint\lesson3_homework.dll
+C:\c#\lesson3_homework\obj\Debug\net7.0\lesson3_homework.pdb
+C:\c#\lesson3_homework\obj\Debug\net7.0\lesson3_homework.genruntimeconfig.cache
+C:\c#\lesson3_homework\obj\Debug\net7.0\ref\lesson3_homework.dll
